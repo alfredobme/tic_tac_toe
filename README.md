@@ -15,3 +15,8 @@ Este proyecto es una implementación del clásico juego **Tic Tac Toe** (Tres en
 - **React**: Biblioteca para construir la interfaz de usuario.
 - **Vite**: Herramienta para el desarrollo rápido del proyecto.
 - **CSS**: Para el diseño y la disposición del tablero.
+
+## Instalación
+1. Clonar el repositorio.
+2. Ejecutar `npm install` para instalar las dependencias.
+3. Usa `npm run dev` para iniciar el servidor de desarrollo.
