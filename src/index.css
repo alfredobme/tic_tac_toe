@@ -48,8 +48,8 @@ h1 {
 
 #game-container {
   max-width: 50rem;
-  margin: 3rem auto;
-  padding: 4rem;
+  margin: 1rem auto;
+  padding: 1rem;
   border-radius: 6px;
   background: linear-gradient(#000034, #000034a3);
   box-shadow:
@@ -59,8 +59,6 @@ h1 {
     0 5px 15px rgba(241, 112, 12, 0.5);
   position: relative;
 }
-
-
 
 #pre-game {
   text-align: center;
@@ -76,10 +74,6 @@ h1 {
   text-shadow: 0 0 12px rgba(0, 0, 0, 0.7);
   animation: pulse-text-size 2s infinite ease-out;
 }
-
-
-
-
 
 @keyframes slide-in-from-left {
   0% {

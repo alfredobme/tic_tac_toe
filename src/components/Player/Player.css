@@ -54,7 +54,7 @@
 .player-name {
   display: inline-block;
   width: 10rem;
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #e1dec7;
   text-transform: uppercase;
   margin: 0;
@@ -78,6 +78,6 @@
 
 .player-symbol {
   margin-left: 1rem;
-  font-size: 1.2rem;
+  font-size: 1rem;
   color: #e1dec7;
 }
